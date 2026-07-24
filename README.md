@@ -27,6 +27,36 @@
 - 后端：Tauri 2 (Rust) + russh
 - 构建：Vite
 
+## 支持项目
+
+如果 FinalShell App 对你有帮助，欢迎扫码打赏支持项目持续维护。
+
+<p align="center">
+  <strong>支付宝</strong><br>
+  <img src="docs/images/donate-alipay.jpg" alt="支付宝打赏码" width="320">
+</p>
+
+<p align="center">
+  <strong>微信支付</strong><br>
+  <img src="docs/images/donate-wechat.png" alt="微信打赏码" width="320">
+</p>
+
+## 联系与交流
+
+扫描下方二维码添加微信，或加入 FinalShell 群聊交流使用心得和问题。
+
+<p align="center">
+  <strong>添加微信</strong><br>
+  <img src="docs/images/wechat-contact.jpg" alt="微信好友二维码" width="320">
+</p>
+
+<p align="center">
+  <strong>加入群聊</strong><br>
+  <img src="docs/images/wechat-group.jpg" alt="FinalShell 微信群二维码" width="320">
+</p>
+
+> 群聊二维码有有效期；如二维码已失效，请先添加微信并备注“FinalShell”。
+
 ## 许可证
 
 MIT
