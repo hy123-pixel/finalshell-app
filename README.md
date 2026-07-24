@@ -12,6 +12,36 @@
 - 网络工具：Ping / Traceroute 实时输出
 - 系统托盘、深色/浅色主题、8 种终端配色方案
 
+## 功能预览
+
+### SSH 终端与 SFTP 文件管理
+
+<img src="docs/images/preview-terminal-sftp.png" alt="FinalShell App 的 SSH 终端、服务器监控和 SFTP 文件管理界面" width="100%">
+
+### AI 运维助手
+
+支持 Chat 与 Agent 两种模式，可在终端会话中协助分析负载、查看日志、检查 SSH 安全和诊断 Docker。
+
+<img src="docs/images/preview-ai-assistant.png" alt="FinalShell App 的 AI 运维助手界面" width="100%">
+
+### AI 模型设置
+
+内置多家模型服务商配置，也支持接入兼容 OpenAI 格式的自定义 API。
+
+<img src="docs/images/preview-ai-settings.png" alt="FinalShell App 的 AI 模型与 API 设置界面" width="100%">
+
+### 个性化设置
+
+支持简体中文和 English、浅色/深色/自动主题，以及多种终端配色和字体大小调整。
+
+<img src="docs/images/preview-app-settings.png" alt="FinalShell App 的语言、主题和终端外观设置界面" width="100%">
+
+### 连接管理
+
+集中管理 SSH 连接，支持分组、搜索、新建、导入和导出。
+
+<img src="docs/images/preview-connections.png" alt="FinalShell App 的 SSH 连接管理界面" width="100%">
+
 ## 下载
 
 请前往 [Releases](../../releases) 页面下载最新版本。
